@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/sandeepbsn/sandeepbsn/master/banner.png" alt="display banner"/>
 
 I am a full stack developer who is passionate about problem solving and creating end to end applications that elevates people life. Some technologies I enjoy working with includes ReactJS, Python, Flask and MySQL. I have built several end to end applications that gives me strong hold over these technologies. I am currently looking for entry level job opportunities as a Full Stack Developer
-
-<br/>
-
 ## Connect with me 
 [<img align="left" src="https://img.icons8.com/all/500/linkedin.png" alt="linkedin" width="30px" height="30px"/>](https://www.linkedin.com/in/sandeep-babu-7b0024141/)
 
