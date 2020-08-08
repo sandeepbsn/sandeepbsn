@@ -1,6 +1,6 @@
-# Hi, I am Sandeep Babu! 👋 
+# Hi, I am Sandeep Babu!
 
-<img src="banner.png" alt="display banner"/>
+<img src="banner.png" alt="display banner" width="100%" height="300px"/>
 
 
 <!--
