@@ -5,12 +5,9 @@ I am a full stack developer who is passionate about problem solving and creating
 <br/>
 
 ## Connect with me 
-[<img align="left" src="https://img.icons8.com/all/500/linkedin.png" alt="linkedin" width="30px" height="30px"/>](www.linkedin.com/in/sandeep-babu-7b0024141)
+[<img align="left" src="https://img.icons8.com/all/500/linkedin.png" alt="linkedin" width="30px" height="30px"/>](https://www.linkedin.com/in/sandeep-babu-7b0024141/)
 
 [<img align="left" src="https://simpleicon.com/wp-content/uploads/twitter-3.png" alt="twitter" width="30px" height="30px"/>](https://twitter.com/Sandeep58563551)
-
-[<img align="left" src="github.png" alt="display banner" width="30px" height="30px"/>](https://github.com/sandeepbsn)
-
 
 
 <!--
