@@ -1,4 +1,6 @@
-### Hi, I am Sandeep Babu! 👋 :smile
+### Hi, I am Sandeep Babu! 👋 
+
+`<img src="./banner.png"/>`
 
 <!--
 **sandeepbsn/sandeepbsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
