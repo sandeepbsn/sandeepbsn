@@ -1,6 +1,6 @@
 ### Hi, I am Sandeep Babu! 👋 
 
-`<img src="./banner.png"/>`
+[<img src="./banner.png"/ alt="banner">]
 
 <!--
 **sandeepbsn/sandeepbsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
