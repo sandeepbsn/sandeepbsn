@@ -1,8 +1,6 @@
-# Hi, I am Sandeep Babu!
+<img src="banner.png" alt="display banner"/>
 
-<img src="banner.png" alt="display banner" width="100%" height="300px"/>
-
-### I am a full stack developer who is passionate about problem solving and creating end to end applications that elevates people life. Some technologies I enjoy working with includes ReactJS, Python, Flask and MySQL. I have built several end to end applications that gives me strong hold over these technologies. I am currently looking for entry level job opportunities as a Full Stack Developer 
+I am a full stack developer who is passionate about problem solving and creating end to end applications that elevates people life. Some technologies I enjoy working with includes ReactJS, Python, Flask and MySQL. I have built several end to end applications that gives me strong hold over these technologies. I am currently looking for entry level job opportunities as a Full Stack Developer 
 
 
 <!--
