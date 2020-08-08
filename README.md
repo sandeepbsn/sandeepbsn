@@ -1,4 +1,4 @@
-<img src="banner.png" alt="display banner"/>
+<img src="https://raw.githubusercontent.com/sandeepbsn/sandeepbsn/master/banner.png" alt="display banner"/>
 
 I am a full stack developer who is passionate about problem solving and creating end to end applications that elevates people life. Some technologies I enjoy working with includes ReactJS, Python, Flask and MySQL. I have built several end to end applications that gives me strong hold over these technologies. I am currently looking for entry level job opportunities as a Full Stack Developer 
 
